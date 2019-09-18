@@ -4,7 +4,7 @@ I'm Ashley, a 3rd year undegraduate student studying Mathematical Computation at
 
 ## Projects
 
-[DinoJump](/projects/dinojump.md)
+[![Dino Jump](/assets/dinojump1.png)](/projects/dinojump.html)
 
 [Conway's Game of Life](/projects/gameoflife.md)
 
