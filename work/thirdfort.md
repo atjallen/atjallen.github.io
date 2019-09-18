@@ -2,9 +2,9 @@
 
 ![Thirdfort logo](/assets/thirdfortlogo.png)
 
-### Role: Software Engineering Intern
+### Software Engineering Intern
 
-### Duration: July - August 2019
+### July - August 2019
 
 ## Technologies
 
