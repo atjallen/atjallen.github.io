@@ -5,3 +5,11 @@ I'm Ashley, a 3rd year undegraduate student studying Mathematical Computation at
 ## Projects
 
 [DinoJump](projects/dinojump.md)
+
+[Conway's Game of Life](projects/gameoflife.md)
+
+[Mobile Image Tagger](projects/mobileimagetagger.md)
+
+## Work
+
+[Thirdfort](work/thirdfort.md)
