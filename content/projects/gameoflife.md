@@ -1,7 +1,5 @@
 # Conway's Game of Life
 
-![banner](/assets/images/gameoflife/banner.png)
-
 ### 2016 - 2017
 
 ### [View the source code here](https://github.com/atjallen/game-of-life)

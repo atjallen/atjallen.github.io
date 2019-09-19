@@ -1,7 +1,5 @@
 # Dino Jump
 
-![banner](/assets/images/dinojump/banner.png)
-
 ### October - November 2017
 
 ## Technologies

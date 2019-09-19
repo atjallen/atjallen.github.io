@@ -1,7 +1,5 @@
 # Solitaire
 
-![banner](/assets/images/solitaire/banner.png)
-
 ### September - October 2017
 
 ### [View the source code here](https://github.com/atjallen/solitaire)
