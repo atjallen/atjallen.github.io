@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-![Conway's Game of Life](/assets/gameoflife1.png)
+![Conway's Game of Life](/assets/gameoflife/banner.png)
 
 ### 2016 - 2017
 
@@ -17,4 +17,4 @@ A version of Conway's Game of Life implemented in Java with JavaFX. Has a number
 
 ## Images
 
-![Game](/assets/gameoflife2.png)
+![Game](/assets/gameoflife/game.png)

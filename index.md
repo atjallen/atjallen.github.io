@@ -4,12 +4,12 @@ I'm Ashley, a 3rd year undegraduate student studying Mathematical Computation at
 
 ## Projects
 
-[![Dino Jump](/assets/dinojump1.png)](/projects/dinojump.html)
+[![Dino Jump](/assets/dinojump/banner.png)](/projects/dinojump.html)
 
-[![Conway's Game of Life](/assets/gameoflife1.png)](/projects/gameoflife.html)
+[![Conway's Game of Life](/assets/gameoflife/banner.png)](/projects/gameoflife.html)
 
 [Mobile Image Tagger](/projects/mobileimagetagger.html)
 
 ## Work
 
-[![Thirdfort logo](/assets/thirdfortlogo.png)](/work/thirdfort.html)
+[![Thirdfort logo](/assets/thirdfort/logo.png)](/work/thirdfort.html)
