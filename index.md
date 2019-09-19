@@ -14,4 +14,4 @@ I'm Ashley, a 3rd year undegraduate student studying Mathematical Computation at
 
 ## Work
 
-[![Thirdfort logo](/assets/thirdfort/logo.png)](/work/thirdfort.html)
+[![Thirdfort](/assets/thirdfort/logo.png)](/work/thirdfort.html)
