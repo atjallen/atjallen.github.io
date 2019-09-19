@@ -8,6 +8,8 @@ I'm Ashley, a 3rd year undegraduate student studying Mathematical Computation at
 
 [![Conway's Game of Life](/assets/gameoflife/banner.png)](/projects/gameoflife.html)
 
+[![Solitaire](/assets/solitaire/banner.png)](/projects/solitaire.html)
+
 [Mobile Image Tagger](/projects/mobileimagetagger.html)
 
 ## Work

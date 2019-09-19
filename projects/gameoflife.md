@@ -17,4 +17,4 @@ A version of Conway's Game of Life implemented in Java with JavaFX. Has a number
 
 ## Images
 
-![Game](/assets/gameoflife/game.png)
+![Game](/assets/gameoflife/gameplay.png)
