@@ -1,6 +1,6 @@
 # Solitaire
 
-![Solitaire](/assets/solitaire/banner.png)
+![Solitaire](/assets/images/solitaire/banner.png)
 
 ### September - October 2017
 
@@ -17,5 +17,5 @@ A version of Solitaire implemented in Java with JavaFX. The game has most of the
 
 ## Images
 
-![Start](/assets/solitaire/start.png)
-![Gameplay](/assets/solitaire/gameplay.png)
+![Start](/assets/images/solitaire/start.png)
+![Gameplay](/assets/images/solitaire/gameplay.png)
