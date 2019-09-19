@@ -1,6 +1,6 @@
 # Dino Jump
 
-![Dino Jump](/assets/images/dinojump/banner.png)
+![banner](/assets/images/dinojump/banner.png)
 
 ### October - November 2017
 
@@ -18,8 +18,8 @@ A simple clone of the dinosaur jumping game that appears when you have no intern
 
 ## Images
 
-![Start](/assets/images/dinojump/start.png)
-![Gameplay](/assets/images/dinojump/gameplay.png)
-![Game over](/assets/images/dinojump/gameover.png)
-![Fritzing](/assets/images/dinojump/fritzing.png)
-![OpenSCAD](/assets/images/dinojump/case.png)
+![start of game](/assets/images/dinojump/start.png)
+![gameplay](/assets/images/dinojump/gameplay.png)
+![game over](/assets/images/dinojump/gameover.png)
+![fritzing](/assets/images/dinojump/fritzing.png)
+![case](/assets/images/dinojump/case.png)

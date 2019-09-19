@@ -1,6 +1,6 @@
 # Thirdfort
 
-![Thirdfort logo](/assets/images/thirdfortlogo.png)
+![logo](/assets/images/thirdfort/logo.png)
 
 ### Software Engineering Intern
 
