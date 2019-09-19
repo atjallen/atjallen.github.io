@@ -10,7 +10,7 @@ I'm Ashley, a 3rd year undergraduate student studying Mathematical Computation a
         alt="Dino Jump"
         style="border-style: solid; border-color: black;"
     >
-](/projects/dinojump.html)
+](/content/projects/dinojump.html)
 
 [
     <img
@@ -18,7 +18,7 @@ I'm Ashley, a 3rd year undergraduate student studying Mathematical Computation a
         alt="Conway's Game of Life"
         style="border-style: solid; border-color: black;"
     >
-](/projects/gameoflife.html)
+](/content/projects/gameoflife.html)
 
 [
     <img
@@ -26,9 +26,9 @@ I'm Ashley, a 3rd year undergraduate student studying Mathematical Computation a
         alt="Solitaire"
         style="border-style: solid; border-color: black;"
     >
-](/projects/solitaire.html)
+](/content/projects/solitaire.html)
 
-[Mobile Image Tagger](/projects/mobileimagetagger.html)
+[Mobile Image Tagger](/content/projects/mobileimagetagger.html)
 
 ## Work
 
@@ -38,4 +38,4 @@ I'm Ashley, a 3rd year undergraduate student studying Mathematical Computation a
         alt="Thirdfort"
         style="border-style: solid; border-color: black;"
     >
-](/work/thirdfort.html)
+](/content/work/thirdfort.html)
