@@ -28,8 +28,6 @@ I'm Ashley, a 3rd year undergraduate student studying Mathematical Computation a
     >
 ](/content/projects/solitaire.html)
 
-[Mobile Image Tagger](/content/projects/mobileimagetagger.html)
-
 ## Work
 
 [
