@@ -1,6 +1,6 @@
 # Hi there
 
-I'm Ashley, a 3rd year undergraduate student studying Mathematical Computation at University College London. I absolutely *love* programming. I've dabbled in a lot of different programming languages but my main ones are Java and JavaScript (I sense a pattern forming...). I also really love video games, playing them and making them.
+I'm Ashley, a 3rd year undergraduate student studying Mathematical Computation at University College London. I absolutely *love* programming. I've dabbled in a lot of different programming languages but my main ones are Java and JavaScript. I also really love video games, playing them and making them.
 
 ## Projects
 
