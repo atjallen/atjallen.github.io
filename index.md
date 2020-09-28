@@ -2,6 +2,24 @@
 
 I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation at University College London. I love programming and software development, in particular game development. I've dabbled in a lot of programming languages but my main ones are C++ and JavaScript. You can see some of the work and projects I've done below.
 
+## Work
+
+[
+    <img
+        src="/assets/images/wonderstruck/logo.png"
+        alt="Wonderstruck"
+        style="border-style: solid; border-color: black;"
+    >
+](/content/work/wonderstruck.html)
+
+[
+    <img
+        src="/assets/images/thirdfort/logo.png"
+        alt="Thirdfort"
+        style="border-style: solid; border-color: black;"
+    >
+](/content/work/thirdfort.html)
+
 ## Projects
 
 [
@@ -27,16 +45,6 @@ I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation a
         style="border-style: solid; border-color: black;"
     >
 ](/content/projects/solitaire.html)
-
-## Work
-
-[
-    <img
-        src="/assets/images/thirdfort/logo.png"
-        alt="Thirdfort"
-        style="border-style: solid; border-color: black;"
-    >
-](/content/work/thirdfort.html)
 
 ## Skills
 
