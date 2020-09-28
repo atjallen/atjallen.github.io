@@ -1,6 +1,8 @@
 # Hi there
 
-I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation at University College London. I love programming and software development, in particular game development. I've dabbled in a lot of programming languages but my main ones are C++ and JavaScript. You can see some of the work and projects I've done below.
+I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation at University College London. I love programming and software development, in particular game development. I've dabbled in a lot of programming languages but my main ones are C++ and JavaScript. You can see some of the work and projects I've done below. Click on the images for more information.
+
+&nbsp;
 
 ## Work
 
@@ -8,7 +10,7 @@ I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation a
     <img
         src="/assets/images/wonderstruck/logo.png"
         alt="Wonderstruck"
-        style="border-style: solid; border-color: black;"
+        style="border-radius: 15px;"
     >
 ](/content/work/wonderstruck.html)
 
@@ -16,9 +18,11 @@ I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation a
     <img
         src="/assets/images/thirdfort/logo.png"
         alt="Thirdfort"
-        style="border-style: solid; border-color: black;"
+        style="border-radius: 15px;"
     >
 ](/content/work/thirdfort.html)
+
+&nbsp;
 
 ## Projects
 
@@ -26,7 +30,7 @@ I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation a
     <img
         src="/assets/images/dinojump/banner.png"
         alt="Dino Jump"
-        style="border-style: solid; border-color: black;"
+        style="border-radius: 15px;"
     >
 ](/content/projects/dinojump.html)
 
@@ -34,7 +38,7 @@ I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation a
     <img
         src="/assets/images/gameoflife/banner.png"
         alt="Conway's Game of Life"
-        style="border-style: solid; border-color: black;"
+        style="border-radius: 15px;"
     >
 ](/content/projects/gameoflife.html)
 
@@ -42,9 +46,11 @@ I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation a
     <img
         src="/assets/images/solitaire/banner.png"
         alt="Solitaire"
-        style="border-style: solid; border-color: black;"
+        style="border-radius: 15px;"
     >
 ](/content/projects/solitaire.html)
+
+&nbsp;
 
 ## Skills
 
