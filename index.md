@@ -40,46 +40,79 @@ I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation a
 
 ## Skills
 
-### Programming languages:
+### Programming languages
 
-- Java (Advanced)
-- JavaScript (Advanced)
-- Go (Familiar)
-- C (Familiar)
-- SQL (Familiar)
-- C++ (Basic)
-- Python (Basic)
-- Haskell (Basic)
+| Advanced   | Familiar | Basic   |
+| ---------- | -------- | ------- |
+| C++        | Python   | Haskell |
+| JavaScript | Java     |         |
+|            | Go       |         |
+|            | C        |         |
+|            | SQL      |         |
 
-### Tools:
+<!-- - Advanced:
+  - C++
+  - JavaScript
+- Familiar:
+  - Python
+  - Java
+  - Go
+  - C
+  - SQL
+- Basic:
+  - Haskell -->
 
-- git (Advanced)
-- VS Code (Advanced)
-- GitHub (Familiar)
-- GitLab (Familiar)
-- Bash (Familiar)
-- IntelliJ IDEA (Familiar)
-- CLion (Familiar)
-- ArangoDB (Familiar)
-- Docker (Basic)
+### Tools
 
-### Libraries/Platforms/Frameworks:
+| Advanced           | Familiar | Basic   |
+| ------------------ | -------- | ------- |
+| git                | Bash     | Docker  |
+| GitHub             | ArangoDB | Maya    |
+| GitLab             |          | Blender |
+| Visual Studio Code |          |         |
+| Visual Studio      |          |         |
 
-- Node.js (Advanced)
-- React (Familiar)
-- JavaFX (Familiar)
-- Redux (Familiar)
-- Express (Familiar)
-- Mocha (Familiar)
-- Chai (Familiar)
-- Kafka (Basic)
-- Angular (Basic)
-- Ionic (Basic)
-- Cordova (Basic)
+<!-- - Advanced:
+  - git
+  - GitHub
+  - GitLab
+  - Visual Studio Code
+  - Visual Studio
+- Familiar:
+  - Bash
+  - ArangoDB
+- Basic:
+  - Docker -->
 
-### Languages:
+### Libraries/Platforms/Frameworks
+
+| Advanced             | Familiar | Basic   |
+| -------------------- | -------- | ------- |
+| C++ Standard Library | React    | Kafka   |
+| Node.js              | Redux    | Angular |
+|                      | Express  | Ionic   |
+|                      | Mocha    | Cordova |
+|                      | Chai     |         |
+|                      | JavaFX   |         |
+
+<!-- - Advanced:
+  - C++ Standard Library
+  - Node.js
+- Familiar:
+  - React
+  - Redux
+  - Express
+  - Mocha
+  - Chai
+  - JavaFX
+- Basic:
+  - Kafka
+  - Angular
+  - Ionic
+  - Cordova -->
+
+### Languages
 
 - English (Native)
 - French (Fluent)
 - Japanese (Basic)
-- German (Basic)
