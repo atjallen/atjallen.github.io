@@ -1,6 +1,6 @@
 # Hi there
 
-I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation at University College London. I love programming and software development, in particular game development. I've dabbled in a lot of programming languages but my main ones are C++ and JavaScript. You can see some of the work and projects I've done below. Click on the images for more information.
+I'm Ashley, a soon-to-be computer science graduate currently studying at University College London. I love programming and game development. I haven't yet found my niche but areas that interest me are gameplay programming, AI programming and network programming. I've developed a number of small games in my own time and as part of my course over the years and I've done some work in industry as well. You can see some of the work and projects I've done below. Click on the images for more information.
 
 &nbsp;
 
