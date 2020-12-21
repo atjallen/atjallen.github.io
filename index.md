@@ -28,6 +28,14 @@ I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation a
 
 [
     <img
+        src="/assets/images/ktaneau/banner.png"
+        alt="KTaNEAU"
+        style="border-radius: 15px;"
+    >
+](/content/projects/ktaneau.html)
+
+[
+    <img
         src="/assets/images/dinojump/banner.png"
         alt="Dino Jump"
         style="border-radius: 15px;"
