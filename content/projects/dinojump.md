@@ -2,13 +2,7 @@
 
 ### October - November 2017
 
-## Technologies
-
-- C
-- Processing
-- Arduino
-- Fritzing
-- OpenSCAD
+**Keywords: C, Processing, Arduino, OpenSCAD, electronics**
 
 ## About
 

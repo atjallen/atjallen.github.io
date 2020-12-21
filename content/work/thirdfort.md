@@ -8,19 +8,7 @@
 
 ### [thirdfort.com](https://www.thirdfort.com)
 
-## Technologies
-
-- JavaScript
-- Go
-- Node.js
-- React
-- Redux
-- ArangoDB
-- Express
-- Mocha
-- Chai
-- Kafka
-- Docker
+**Keywords: JavaScript, Go, Node.js, React, Redux, ArangoDB, Express, Mocha, Chai, Docker, API, full-stack databases, Agile, code reviews, unit testing, CI/CD, startup**
 
 ## About
 

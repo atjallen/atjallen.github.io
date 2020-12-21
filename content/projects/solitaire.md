@@ -4,10 +4,7 @@
 
 ### [View the source code here](https://github.com/atjallen/solitaire)
 
-## Technologies
-
-- Java
-- JavaFX
+**Keywords: Java, JavaFX**
 
 ## About
 

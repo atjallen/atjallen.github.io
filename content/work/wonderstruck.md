@@ -8,15 +8,7 @@
 
 ### [wonderstruckgames.com](http://wonderstruckgames.com)
 
-## Technologies
-
-- C++
-- Python
-- FBX
-- JSON
-- Maya
-- Visual Studio
-- cmake
+**Keywords: C++, Python, FBX, JSON, Maya, Visual Studio, cmake, graphics, modelling, animation**
 
 ## About
 
