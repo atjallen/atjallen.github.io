@@ -4,7 +4,7 @@ I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation a
 
 &nbsp;
 
-## Work
+## Games Industry Work
 
 [
     <img
@@ -13,14 +13,6 @@ I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation a
         style="border-radius: 15px;"
     >
 ](/content/work/wonderstruck.html)
-
-[
-    <img
-        src="/assets/images/thirdfort/logo.png"
-        alt="Thirdfort"
-        style="border-radius: 15px;"
-    >
-](/content/work/thirdfort.html)
 
 &nbsp;
 
@@ -60,7 +52,22 @@ I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation a
 
 &nbsp;
 
-## Skills
+## Other Work
+
+[
+    <img
+        src="/assets/images/thirdfort/logo.png"
+        alt="Thirdfort"
+        style="border-radius: 15px;"
+    >
+](/content/work/thirdfort.html)
+
+<!-- ## Technical Skills
+
+- **Languages:** C++, C\#, Python, JavaScript, C, Java, Go, GLSL, SQL
+- **Tools:** Unity, git, Visual Studio, Visual Studio Code, GitHub, GitLab, Bash, Node.js, Docker
+- **Knowledge:** Networking, algorithms, component systems, graphics, modelling, texturing, unit testing
+- **Libraries:** C++ Standard Library, React, Redux, Express
 
 ### Programming languages
 
@@ -72,7 +79,7 @@ I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation a
 |            | C        |         |
 |            | SQL      |         |
 
-<!-- - Advanced:
+- Advanced:
   - C++
   - JavaScript
 - Familiar:
@@ -82,7 +89,7 @@ I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation a
   - C
   - SQL
 - Basic:
-  - Haskell -->
+  - Haskell
 
 ### Tools
 
@@ -94,7 +101,7 @@ I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation a
 | Visual Studio Code |          |         |
 | Visual Studio      |          |         |
 
-<!-- - Advanced:
+- Advanced:
   - git
   - GitHub
   - GitLab
@@ -104,7 +111,7 @@ I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation a
   - Bash
   - ArangoDB
 - Basic:
-  - Docker -->
+  - Docker
 
 ### Libraries/Platforms/Frameworks
 
@@ -117,7 +124,7 @@ I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation a
 |                      | Chai     |         |
 |                      | JavaFX   |         |
 
-<!-- - Advanced:
+- Advanced:
   - C++ Standard Library
   - Node.js
 - Familiar:
@@ -131,10 +138,10 @@ I'm Ashley, a 4th-year undergraduate student studying Mathematical Computation a
   - Kafka
   - Angular
   - Ionic
-  - Cordova -->
+  - Cordova
 
 ### Languages
 
 - English (Native)
 - French (Fluent)
-- Japanese (Basic)
+- Japanese (Basic) -->
