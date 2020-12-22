@@ -8,7 +8,7 @@
 
 ### [thirdfort.com](https://www.thirdfort.com)
 
-**Keywords: JavaScript, Go, Node.js, React, Redux, ArangoDB, Express, Mocha, Chai, Docker, API, full-stack databases, Agile, code reviews, unit testing, CI/CD, startup**
+**Keywords: JavaScript, Go, Node.js, React, Redux, ArangoDB, Express, Mocha, Chai, Docker, API, full-stack, databases, Agile, code reviews, unit testing, CI/CD, startup**
 
 ## About
 
