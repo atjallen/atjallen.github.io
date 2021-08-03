@@ -1,6 +1,6 @@
 # Hi there
 
-I'm Ashley, a soon-to-be computer science graduate currently studying at University College London. I love programming and game development. I haven't yet found my niche but areas that interest me are gameplay programming, AI programming and network programming. I've developed a number of small games in my own time and as part of my course over the years and I've done some work in industry as well. You can see some of the work and projects I've done below. Click on the images for more information.
+I'm Ashley, a recent computer science graduate from University College London. I love programming and game development. I haven't yet found my niche but areas that interest me are gameplay programming, AI programming and network programming. I've developed a number of small games in my own time and as part of my course over the years and I've done some work in industry as well. You can see some of the work and projects I've done below. Click on the images for more information.
 
 &nbsp;
 
@@ -17,6 +17,13 @@ I'm Ashley, a soon-to-be computer science graduate currently studying at Univers
 &nbsp;
 
 ## Projects
+
+<a
+  href="/content/projects/portal2d.html"
+  alt="Portal 2D"
+  style="display: flex; height: 100px; background-color: black; border-radius: 15px; justify-content: center; ;align-items: center; font-size: xxx-large; color: white;">
+  Portal 2D
+</a>
 
 [
     <img
